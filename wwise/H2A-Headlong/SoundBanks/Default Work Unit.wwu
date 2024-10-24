@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2ECB0A2F-B6CE-4CB0-BE8B-B2E122056944}" SchemaVersion="62">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{2ECB0A2F-B6CE-4CB0-BE8B-B2E122056944}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="cex_headlong" ID="{0495A238-D4A8-4651-B78D-C9BA12FD852F}">
+					<ObjectInclusionList>
+						<ObjectRef Name="play_pressure_in_pipes" ID="{402BE801-488C-48CA-A690-2C0DA53092D4}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_lift_loop" ID="{EAA54C15-D6D5-45C6-969D-468932AA386B}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_bigscreen" ID="{7E8E941C-4CC8-4F28-8AA0-3B42FDF5F37D}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_fluorescent_light" ID="{F5858529-8A5E-460F-AC03-E5960A76D416}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_smallscreen" ID="{4644E92F-14E8-49A0-873E-7D6C5D1BA5FC}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_water_fountain_oni" ID="{2231E930-5BC2-40B4-A7C5-BAAEEC2B9E52}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_hl_steammed" ID="{08257931-0B88-48B9-9ABC-D403AC2B50EE}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_hl_crane" ID="{C6FE0533-079C-47D9-A24E-24864B2A5B0D}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_transformer_boxes" ID="{75897839-5F2B-4FEB-AA15-FD3A70276B00}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_swahili_pa" ID="{FB1FA939-7CDD-4A7F-818D-088F625363BF}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_pipe_med" ID="{760EC751-FA52-4185-A4C2-E41C96A3FFC8}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_water_light_lapping" ID="{7A7B885B-1934-4264-91E7-87DFB6C97EFB}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_hl_burnbuilding_lod" ID="{7B3BB475-9B22-42F3-892E-83B1BD09B8F3}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_hl_buildingfire" ID="{6094D391-8F0D-4A68-AF57-CF51493ACF52}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_hl_flamefall_exp" ID="{1CD00B96-3F9A-4FD9-893E-D2406B595E39}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_hvac_point" ID="{83F9159A-95CF-4B04-8A60-9E69D490BEC0}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_m50_machine1" ID="{7213649A-2567-44D2-953E-F68F9E2F19E8}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_cyberdine_fan_lift" ID="{B8B750A1-D4D6-4535-BD84-C180C58E2CD8}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_circuit_boxes" ID="{161F13D7-19B7-4F3D-BA33-877DF82A7AE8}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_broken_light" ID="{FCDF41DE-4505-4C93-97C5-D9A3C7C1818F}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_hl_comp" ID="{6E900EE9-29B4-4816-B0A7-91F1E1DFC8E6}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="play_ca_hl_flamefall_fire" ID="{77BC6DF2-3216-424E-9FD8-2524BF0376B2}" WorkUnitID="{96CCDBA3-5830-4A45-880F-834CBF767860}" Filter="7" Origin="Manual" />
+					</ObjectInclusionList>
+					<ObjectExclusionList />
+					<GameSyncExclusionList />
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

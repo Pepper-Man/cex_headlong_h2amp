@@ -1,0 +1,105 @@
+{
+    "string_table": {
+        "global_materials_names": [
+            "''default''"
+        ],
+        "global_materials_values": [
+            "0"
+        ],
+        "regions_names": [
+            "''default''"
+        ],
+        "regions_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {
+        "armature": {
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_world": "1",
+            "bungie_frame_ID2": "378163771",
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "7fccd8d4-8203-887f-e5fd-63f827cf0a1e"
+        },
+        "implied_root_node": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {
+        "default:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "default",
+            "bungie_object_ID": "85d985be-3c49-671b-7c8f-85de8d473661"
+        }
+    },
+    "material_properties": {
+        "ca_headlong_skybox_vertex_sky": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\ca_headlong_skybox_vertex_sky",
+            "halo_shader_type": "material"
+        },
+        "white": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\white",
+            "halo_shader_type": "material"
+        },
+        "ca_headlong_rockets": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\ca_headlong_rockets",
+            "halo_shader_type": "material"
+        },
+        "ca_headlong_rockets_distant": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\ca_headlong_rockets_distant",
+            "halo_shader_type": "material"
+        },
+        "ca_headlong_smoke_plume_a": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\ca_headlong_smoke_plume_a",
+            "halo_shader_type": "material"
+        },
+        "ca_headlong_smoke_plume_b": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\ca_headlong_smoke_plume_b",
+            "halo_shader_type": "material"
+        },
+        "ca_heh_flame": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\ca_heh_flame",
+            "halo_shader_type": "material"
+        },
+        "ca_headlong_skybox_clouds": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\ca_headlong_skybox_clouds",
+            "halo_shader_type": "material"
+        },
+        "ca_timberland_clouds": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\ca_timberland_clouds",
+            "halo_shader_type": "material"
+        },
+        "ca_timberland_skybox_clouds_scroll": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\ca_timberland_skybox_clouds_scroll",
+            "halo_shader_type": "material"
+        },
+        "ca_timberland_sun_flare": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\ca_timberland_sun_flare",
+            "halo_shader_type": "material"
+        },
+        "smoke_plume_c": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\smoke_plume_c",
+            "halo_shader_type": "material"
+        },
+        "contrails_1": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\contrails_1",
+            "halo_shader_type": "material"
+        },
+        "contrails_2": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\contrails_2",
+            "halo_shader_type": "material"
+        },
+        "contrails_3": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\contrails_3",
+            "halo_shader_type": "material"
+        },
+        "contrails_4": {
+            "halo_shader_path": "levels\\pepper\\cex_headlong\\sky_headlong_2\\materials\\contrails_4",
+            "halo_shader_type": "material"
+        }
+    }
+}

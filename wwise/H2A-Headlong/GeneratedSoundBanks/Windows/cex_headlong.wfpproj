@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project Version="6" InfoFilePath="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\GeneratedSoundBanks\Windows\SoundbanksInfo.xml" OutputDirectory="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\sound\pc">
+  <ManualPackagingInfo BlockSize="1" BlockSizeRSX="128" UnassignedBanksPackageId="e34ef8cd-2e43-4532-ae80-8c786321cb52" UnassignedStreamsPackageId="e34ef8cd-2e43-4532-ae80-8c786321cb52" UnassignedExternalsPackageId="e34ef8cd-2e43-4532-ae80-8c786321cb52">
+    <Packages>
+      <Package Id="e34ef8cd-2e43-4532-ae80-8c786321cb52" Name="cex_headlong.pck" IsRSX="false">
+        <Items />
+        <LayoutItems>
+          <ContentItemBase Id="0" Language="" FileName="" />
+        </LayoutItems>
+      </Package>
+    </Packages>
+    <DefaultLanguagePackageIds>
+      <LanguagePackageIds Language="SFX" BankPackageId="00000000-0000-0000-0000-000000000000" StreamPackageId="00000000-0000-0000-0000-000000000000" />
+    </DefaultLanguagePackageIds>
+  </ManualPackagingInfo>
+</Project>

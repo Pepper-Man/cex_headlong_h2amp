@@ -1,0 +1,61 @@
+{
+    "string_table": {
+        "global_materials_names": [
+            "'default'"
+        ],
+        "global_materials_values": [
+            "0"
+        ],
+        "regions_names": [
+            "'default'"
+        ],
+        "regions_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {
+        "construction_plates_bundle_world": {
+            "bungie_frame_world": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771",
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "754e21fd-aa9b-13fd-8d50-97950d4f01fc"
+        },
+        "implied_root_node": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {
+        "default:default": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_default",
+            "bungie_face_region": "default",
+            "bungie_object_ID": "9dcb3042-754b-4718-9b02-4ef1753ef8f3"
+        }
+    },
+    "material_properties": {
+        "metal_oni_ext_panel_a": {
+            "halo_shader_path": "levels\\shared\\shaders\\oni\\metal_oni_ext_panel_a",
+            "halo_shader_type": "material"
+        },
+        "metal_hardware_destroyed": {
+            "halo_shader_path": "objects\\props\\human\\pioneer\\furniture\\shaders\\metal_hardware_destroyed",
+            "halo_shader_type": "material"
+        },
+        "nylon_strap_tiled_tan": {
+            "halo_shader_path": "objects\\props\\human\\unsc\\shaders\\nylon_strap_tiled_tan",
+            "halo_shader_type": "material"
+        },
+        "mc_metal_floor_plate_a": {
+            "halo_shader_path": "objects\\scenery\\human\\industrial\\shaders\\mc_metal_floor_plate_a",
+            "halo_shader_type": "material"
+        },
+        "mc_metal_floor_plate_trim_b": {
+            "halo_shader_path": "objects\\scenery\\human\\industrial\\shaders\\mc_metal_floor_plate_trim_b",
+            "halo_shader_type": "material"
+        }
+    }
+}

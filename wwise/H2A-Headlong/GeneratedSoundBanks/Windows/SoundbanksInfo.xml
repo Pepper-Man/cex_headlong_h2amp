@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" SchemaVersion="9">
+	<RootPaths>
+		<ProjectRoot>C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\</ProjectRoot>
+		<SourceFilesRoot>C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents />
+	<StreamedFiles />
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedEvents />
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles />
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="2499107510" Language="SFX">
+			<ShortName>cex_headlong</ShortName>
+			<Path>cex_headlong.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1295206604" Name="play_broken_light" />
+				<Event Id="662035241" Name="play_ca_bigscreen" />
+				<Event Id="3496478656" Name="play_ca_circuit_boxes" />
+				<Event Id="729791448" Name="play_ca_cyberdine_fan_lift" />
+				<Event Id="1730827912" Name="play_ca_fluorescent_light" />
+				<Event Id="618833808" Name="play_ca_hl_buildingfire" />
+				<Event Id="1258938483" Name="play_ca_hl_burnbuilding_lod" />
+				<Event Id="1294751809" Name="play_ca_hl_comp" />
+				<Event Id="256056923" Name="play_ca_hl_crane" />
+				<Event Id="4169200662" Name="play_ca_hl_flamefall_exp" />
+				<Event Id="3798384589" Name="play_ca_hl_flamefall_fire" />
+				<Event Id="2056066750" Name="play_ca_hl_steammed" />
+				<Event Id="3855542372" Name="play_ca_hvac_point" />
+				<Event Id="1437579903" Name="play_ca_lift_loop" />
+				<Event Id="82238416" Name="play_ca_m50_machine1" />
+				<Event Id="3407656958" Name="play_ca_pipe_med" />
+				<Event Id="3179071782" Name="play_ca_smallscreen" />
+				<Event Id="217380956" Name="play_ca_transformer_boxes" />
+				<Event Id="2121962484" Name="play_ca_water_fountain_oni" />
+				<Event Id="2440373929" Name="play_ca_water_light_lapping" />
+				<Event Id="134727009" Name="play_pressure_in_pipes" />
+				<Event Id="1094392313" Name="play_swahili_pa" />
+			</IncludedEvents>
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles>
+				<File Id="616886065" Language="SFX">
+					<ShortName>burning_building\loop[ca_burning_building_lp1].wav</ShortName>
+					<Path>sfx\burning_building\loop[ca_burning_building_lp1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="536578855" Language="SFX">
+					<ShortName>burning_building\loop[ca_burning_building_lp2].wav</ShortName>
+					<Path>sfx\burning_building\loop[ca_burning_building_lp2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="953205159" Language="SFX">
+					<ShortName>burning_building\loop[ca_burning_building_lp3].wav</ShortName>
+					<Path>sfx\burning_building\loop[ca_burning_building_lp3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="477199697" Language="SFX">
+					<ShortName>burning_building\loop[ca_burning_building_lp4].wav</ShortName>
+					<Path>sfx\burning_building\loop[ca_burning_building_lp4]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="1064901652" Language="SFX">
+					<ShortName>ca_hl_flamefall_exp\ca_hl_flamefall_exp[h3_dist_expl1].wav</ShortName>
+					<Path>sfx\ca_hl_flamefall_exp\ca_hl_flamefall_exp[h3_dist_expl1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="526636022" Language="SFX">
+					<ShortName>ca_hl_flamefall_exp\ca_hl_flamefall_exp[h3_dist_expl2].wav</ShortName>
+					<Path>sfx\ca_hl_flamefall_exp\ca_hl_flamefall_exp[h3_dist_expl2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="464992828" Language="SFX">
+					<ShortName>ca_hl_flamefall_exp\ca_hl_flamefall_exp[h3_small_expl2].wav</ShortName>
+					<Path>sfx\ca_hl_flamefall_exp\ca_hl_flamefall_exp[h3_small_expl2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="853623955" Language="SFX">
+					<ShortName>ca_hl_flamefall_exp\ca_hl_flamefall_exp[h3_small_expl3].wav</ShortName>
+					<Path>sfx\ca_hl_flamefall_exp\ca_hl_flamefall_exp[h3_small_expl3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="798139068" Language="SFX">
+					<ShortName>ca_hl_flamefall_exp\ca_hl_flamefall_exp[h3_small_expl4].wav</ShortName>
+					<Path>sfx\ca_hl_flamefall_exp\ca_hl_flamefall_exp[h3_small_expl4]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="1051395201" Language="SFX">
+					<ShortName>fan_loop\loop[ca_fanlift_loop_1].wav</ShortName>
+					<Path>sfx\fan_loop\loop[ca_fanlift_loop_1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="159099084" Language="SFX">
+					<ShortName>fan_loop\loop[ca_fanlift_loop_2].wav</ShortName>
+					<Path>sfx\fan_loop\loop[ca_fanlift_loop_2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="778037956" Language="SFX">
+					<ShortName>fan_loop\loop[ca_fanlift_loop_3].wav</ShortName>
+					<Path>sfx\fan_loop\loop[ca_fanlift_loop_3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="82870699" Language="SFX">
+					<ShortName>fan_loop\loop[ca_fanlift_loop_4].wav</ShortName>
+					<Path>sfx\fan_loop\loop[ca_fanlift_loop_4]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="999978073" Language="SFX">
+					<ShortName>fan_loop\loop[ca_fanlift_loop_5].wav</ShortName>
+					<Path>sfx\fan_loop\loop[ca_fanlift_loop_5]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="607976326" Language="SFX">
+					<ShortName>fan_loop\loop[ca_fanlift_loop_6].wav</ShortName>
+					<Path>sfx\fan_loop\loop[ca_fanlift_loop_6]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="206384518" Language="SFX">
+					<ShortName>hvac_point\loop[ca_hvac_point_lp1].wav</ShortName>
+					<Path>sfx\hvac_point\loop[ca_hvac_point_lp1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="46038152" Language="SFX">
+					<ShortName>hvac_point\loop[ca_hvac_point_lp2].wav</ShortName>
+					<Path>sfx\hvac_point\loop[ca_hvac_point_lp2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="387464742" Language="SFX">
+					<ShortName>hvac_point\loop[ca_hvac_point_lp3].wav</ShortName>
+					<Path>sfx\hvac_point\loop[ca_hvac_point_lp3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="427941004" Language="SFX">
+					<ShortName>liquid_fire\loop[liquid_fire1].wav</ShortName>
+					<Path>sfx\liquid_fire\loop[liquid_fire1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="20267120" Language="SFX">
+					<ShortName>liquid_fire\loop[liquid_fire2].wav</ShortName>
+					<Path>sfx\liquid_fire\loop[liquid_fire2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="242548578" Language="SFX">
+					<ShortName>liquid_fire\loop[liquid_fire3].wav</ShortName>
+					<Path>sfx\liquid_fire\loop[liquid_fire3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="105906189" Language="SFX">
+					<ShortName>liquid_fire\loop[liquid_fire4].wav</ShortName>
+					<Path>sfx\liquid_fire\loop[liquid_fire4]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="1014875802" Language="SFX">
+					<ShortName>loop[ca_water_light_lapping1].wav</ShortName>
+					<Path>sfx\loop[ca_water_light_lapping1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="383332824" Language="SFX">
+					<ShortName>loop[ca_water_light_lapping2].wav</ShortName>
+					<Path>sfx\loop[ca_water_light_lapping2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="686933890" Language="SFX">
+					<ShortName>loop[ca_water_light_lapping3].wav</ShortName>
+					<Path>sfx\loop[ca_water_light_lapping3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="965866844" Language="SFX">
+					<ShortName>loop[ca_water_light_lapping4].wav</ShortName>
+					<Path>sfx\loop[ca_water_light_lapping4]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="632216136" Language="SFX">
+					<ShortName>m50_machine1\loop[ca_m50_machine1_lp1].wav</ShortName>
+					<Path>sfx\m50_machine1\loop[ca_m50_machine1_lp1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="207127855" Language="SFX">
+					<ShortName>m50_machine1\loop[ca_m50_machine1_lp2].wav</ShortName>
+					<Path>sfx\m50_machine1\loop[ca_m50_machine1_lp2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="947568950" Language="SFX">
+					<ShortName>m50_machine1\loop[ca_m50_machine1_lp3].wav</ShortName>
+					<Path>sfx\m50_machine1\loop[ca_m50_machine1_lp3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="53704256" Language="SFX">
+					<ShortName>pressure_in_pipes\loop[ca_pressure_in_pipes1].wav</ShortName>
+					<Path>sfx\pressure_in_pipes\loop[ca_pressure_in_pipes1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="1005308612" Language="SFX">
+					<ShortName>pressure_in_pipes\loop[ca_pressure_in_pipes2].wav</ShortName>
+					<Path>sfx\pressure_in_pipes\loop[ca_pressure_in_pipes2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="285985528" Language="SFX">
+					<ShortName>pressure_in_pipes\loop[ca_pressure_in_pipes3].wav</ShortName>
+					<Path>sfx\pressure_in_pipes\loop[ca_pressure_in_pipes3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="970587256" Language="SFX">
+					<ShortName>pressure_in_pipes\loop[ca_pressure_in_pipes4].wav</ShortName>
+					<Path>sfx\pressure_in_pipes\loop[ca_pressure_in_pipes4]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="580684359" Language="SFX">
+					<ShortName>swahili[040mz_130_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_130_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="393391510" Language="SFX">
+					<ShortName>swahili[040mz_140_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_140_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="5269901" Language="SFX">
+					<ShortName>swahili[040mz_150_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_150_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="179953576" Language="SFX">
+					<ShortName>swahili[040mz_160_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_160_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="785074570" Language="SFX">
+					<ShortName>swahili[040mz_170_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_170_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="651239504" Language="SFX">
+					<ShortName>swahili[040mz_180_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_180_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="396548856" Language="SFX">
+					<ShortName>swahili[040mz_190_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_190_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="716353010" Language="SFX">
+					<ShortName>swahili[040mz_200_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_200_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="240240820" Language="SFX">
+					<ShortName>swahili[040mz_210_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_210_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="52366603" Language="SFX">
+					<ShortName>swahili[040mz_220_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_220_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="121783080" Language="SFX">
+					<ShortName>swahili[040mz_230_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_230_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="1064854357" Language="SFX">
+					<ShortName>swahili[040mz_240_ans].wav</ShortName>
+					<Path>sfx\swahili[040mz_240_ans]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="256581545" Language="SFX">
+					<ShortName>swahili[382].wav</ShortName>
+					<Path>sfx\swahili[382]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="469076232" Language="SFX">
+					<ShortName>swahili[383].wav</ShortName>
+					<Path>sfx\swahili[383]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="306267906" Language="SFX">
+					<ShortName>swahili[384].wav</ShortName>
+					<Path>sfx\swahili[384]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="757206459" Language="SFX">
+					<ShortName>swahili[385].wav</ShortName>
+					<Path>sfx\swahili[385]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="643276058" Language="SFX">
+					<ShortName>swahili[386].wav</ShortName>
+					<Path>sfx\swahili[386]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="625925474" Language="SFX">
+					<ShortName>swahili[387].wav</ShortName>
+					<Path>sfx\swahili[387]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="147867406" Language="SFX">
+					<ShortName>swahili[388].wav</ShortName>
+					<Path>sfx\swahili[388]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="55944611" Language="SFX">
+					<ShortName>track1\loop[ca_broken_light1].wav</ShortName>
+					<Path>sfx\track1\loop[ca_broken_light1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="324718484" Language="SFX">
+					<ShortName>track1\loop[ca_broken_light2].wav</ShortName>
+					<Path>sfx\track1\loop[ca_broken_light2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="643532268" Language="SFX">
+					<ShortName>track1\loop[ca_broken_light3].wav</ShortName>
+					<Path>sfx\track1\loop[ca_broken_light3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="963948646" Language="SFX">
+					<ShortName>track1\loop[ca_broken_light4].wav</ShortName>
+					<Path>sfx\track1\loop[ca_broken_light4]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="877938429" Language="SFX">
+					<ShortName>track1\loop[ca_burnbuilding_lod_lp1].wav</ShortName>
+					<Path>sfx\track1\loop[ca_burnbuilding_lod_lp1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="230370311" Language="SFX">
+					<ShortName>track1\loop[ca_burnbuilding_lod_lp2].wav</ShortName>
+					<Path>sfx\track1\loop[ca_burnbuilding_lod_lp2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="567593806" Language="SFX">
+					<ShortName>track1\loop[ca_burnbuilding_lod_lp3].wav</ShortName>
+					<Path>sfx\track1\loop[ca_burnbuilding_lod_lp3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="948120577" Language="SFX">
+					<ShortName>track1\loop[ca_curcuit_boxes1].wav</ShortName>
+					<Path>sfx\track1\loop[ca_curcuit_boxes1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="800124706" Language="SFX">
+					<ShortName>track1\loop[ca_curcuit_boxes2].wav</ShortName>
+					<Path>sfx\track1\loop[ca_curcuit_boxes2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="854607406" Language="SFX">
+					<ShortName>track1\loop[ca_curcuit_boxes3].wav</ShortName>
+					<Path>sfx\track1\loop[ca_curcuit_boxes3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="2235208" Language="SFX">
+					<ShortName>track1\loop[ca_fluorescent_light].wav</ShortName>
+					<Path>sfx\track1\loop[ca_fluorescent_light]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="451134754" Language="SFX">
+					<ShortName>track1\loop[ca_hl_bigscreen01].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_bigscreen01]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="664028657" Language="SFX">
+					<ShortName>track1\loop[ca_hl_bigscreen02].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_bigscreen02]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="634214895" Language="SFX">
+					<ShortName>track1\loop[ca_hl_bigscreen03].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_bigscreen03]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="527125240" Language="SFX">
+					<ShortName>track1\loop[ca_hl_comphum01].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_comphum01]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="457278782" Language="SFX">
+					<ShortName>track1\loop[ca_hl_comphum02].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_comphum02]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="315869851" Language="SFX">
+					<ShortName>track1\loop[ca_hl_comphum03].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_comphum03]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="714807972" Language="SFX">
+					<ShortName>track1\loop[ca_hl_comphum04].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_comphum04]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="872236941" Language="SFX">
+					<ShortName>track1\loop[ca_hl_comphum05].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_comphum05]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="411387557" Language="SFX">
+					<ShortName>track1\loop[ca_hl_crane01].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_crane01]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="490900892" Language="SFX">
+					<ShortName>track1\loop[ca_hl_crane02].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_crane02]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="86873622" Language="SFX">
+					<ShortName>track1\loop[ca_hl_crane03].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_crane03]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="60126851" Language="SFX">
+					<ShortName>track1\loop[ca_hl_crane04].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_crane04]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="650547537" Language="SFX">
+					<ShortName>track1\loop[ca_hl_smallscreen01].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_smallscreen01]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="470631495" Language="SFX">
+					<ShortName>track1\loop[ca_hl_smallscreen02].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_smallscreen02]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="792554823" Language="SFX">
+					<ShortName>track1\loop[ca_hl_smallscreen03].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_smallscreen03]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="29226654" Language="SFX">
+					<ShortName>track1\loop[ca_hl_steam_med01].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_steam_med01]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="1030669088" Language="SFX">
+					<ShortName>track1\loop[ca_hl_steam_med02].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_steam_med02]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="550646922" Language="SFX">
+					<ShortName>track1\loop[ca_hl_steam_med03].wav</ShortName>
+					<Path>sfx\track1\loop[ca_hl_steam_med03]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="473045595" Language="SFX">
+					<ShortName>track1\loop[ca_lift_loop].wav</ShortName>
+					<Path>sfx\track1\loop[ca_lift_loop]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="264335819" Language="SFX">
+					<ShortName>track1\loop[ca_transf_boxes1].wav</ShortName>
+					<Path>sfx\track1\loop[ca_transf_boxes1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="1064258264" Language="SFX">
+					<ShortName>track1\loop[ca_transf_boxes2].wav</ShortName>
+					<Path>sfx\track1\loop[ca_transf_boxes2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="288532951" Language="SFX">
+					<ShortName>track1\loop[ca_transf_boxes3].wav</ShortName>
+					<Path>sfx\track1\loop[ca_transf_boxes3]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="88760406" Language="SFX">
+					<ShortName>track1\loop[pipe_roar2].wav</ShortName>
+					<Path>sfx\track1\loop[pipe_roar2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="887580314" Language="SFX">
+					<ShortName>water_fountain_oni\loop[ca_water_fountain_oni1].wav</ShortName>
+					<Path>sfx\water_fountain_oni\loop[ca_water_fountain_oni1]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="1054371138" Language="SFX">
+					<ShortName>water_fountain_oni\loop[ca_water_fountain_oni2].wav</ShortName>
+					<Path>sfx\water_fountain_oni\loop[ca_water_fountain_oni2]_ddc98ef4.wem</Path>
+				</File>
+				<File Id="1018484740" Language="SFX">
+					<ShortName>water_fountain_oni\loop[ca_water_fountain_oni3].wav</ShortName>
+					<Path>sfx\water_fountain_oni\loop[ca_water_fountain_oni3]_ddc98ef4.wem</Path>
+				</File>
+			</IncludedFullFiles>
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

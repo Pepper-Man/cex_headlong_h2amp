@@ -1,0 +1,34 @@
+{
+    "string_table": {
+        "global_materials_names": [
+            "''default''"
+        ],
+        "global_materials_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {
+        "armature": {
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_world": "1",
+            "bungie_frame_ID2": "378163771",
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "7fccd8d4-8203-887f-e5fd-63f827cf0a1e"
+        },
+        "implied_root_node": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        },
+        "sun_flare": {
+            "bungie_object_type": "_connected_geometry_object_type_marker",
+            "bungie_marker_type": "_connected_geometry_marker_type_model",
+            "bungie_marker_model_group": "sun_flare",
+            "bungie_marker_all_regions": "1",
+            "bungie_object_ID": "63771feb-5241-06d1-6f38-82f168c84d6e"
+        }
+    },
+    "meshes_properties": {},
+    "material_properties": {}
+}

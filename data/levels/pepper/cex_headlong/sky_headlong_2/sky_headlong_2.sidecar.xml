@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Metadata>
+  <Header>
+    <MainRev>0</MainRev>
+    <PointRev>6</PointRev>
+    <Description>Forged in Foundry</Description>
+    <Created>2024-07-20 16:38:59</Created>
+    <By>jakeb</By>
+    <SourceBlend>levels\pepper\cex_headlong\sky_headlong_2\sky_headlong_2.blend</SourceBlend>
+    <DirectoryType>TAE.Shared.NWOAssetDirectory</DirectoryType>
+    <Schema>1</Schema>
+  </Header>
+  <Asset Name="sky_headlong_2" Type="model">
+    <OutputTagCollection>
+      <OutputTag Type="model">levels\pepper\cex_headlong\sky_headlong_2\sky_headlong_2</OutputTag>
+      <OutputTag Type="scenery">levels\pepper\cex_headlong\sky_headlong_2\sky_headlong_2</OutputTag>
+    </OutputTagCollection>
+  </Asset>
+  <Folders>
+    <Reference>\reference</Reference>
+    <Temp>\temp</Temp>
+    <SourceModels>\models\work</SourceModels>
+    <GameModels>\models</GameModels>
+    <GamePhysicsModels>\models</GamePhysicsModels>
+    <GameCollisionModels>\models</GameCollisionModels>
+    <ExportModels>\export\models</ExportModels>
+    <ExportPhysicsModels>\export\models</ExportPhysicsModels>
+    <ExportCollisionModels>\export\models</ExportCollisionModels>
+    <SourceAnimations>\animations\work</SourceAnimations>
+    <AnimationsRigs>\animations\rigs</AnimationsRigs>
+    <GameAnimations>\animations</GameAnimations>
+    <ExportAnimations>\export\animations</ExportAnimations>
+    <SourceBitmaps>\bitmaps</SourceBitmaps>
+    <GameBitmaps>\bitmaps</GameBitmaps>
+    <CinemaSource>\cinematics</CinemaSource>
+    <CinemaExport>\export\cinematics</CinemaExport>
+    <ExportBSPs>\models</ExportBSPs>
+    <SourceBSPs>\models</SourceBSPs>
+    <RigFlags>\animations\rigs\flags</RigFlags>
+    <RigPoses>\animations\rigs\poses</RigPoses>
+    <RigRenders>\animations\rigs\render</RigRenders>
+    <Scripts>\scripts</Scripts>
+    <FacePoses>\animations\rigs\poses\face_poses</FacePoses>
+    <CinematicOutsource>\outsource</CinematicOutsource>
+    <Retarget>\working\retarget</Retarget>
+    <RetargetSourceAnimations>\working\retarget\binge</RetargetSourceAnimations>
+    <RetargetTargetAnimations>\working\retarget\purge</RetargetTargetAnimations>
+    <Export>\export</Export>
+    <CinematicSceneSegments>\segments</CinematicSceneSegments>
+    <SourceAnimationLibrary>\animations\library</SourceAnimationLibrary>
+  </Folders>
+  <FaceCollections>
+    <FaceCollection Name="regions" StringTable="connected_geometry_regions_table" Description="Model regions">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+    <FaceCollection Name="global materials override" StringTable="connected_geometry_global_material_table" Description="Global material overrides">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+  </FaceCollections>
+  <Contents>
+    <Content Name="sky_headlong_2" Type="model">
+      <ContentObject Name="" Type="render_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>levels\pepper\cex_headlong\sky_headlong_2\sky_headlong_2.blend</InputFile>
+          <IntermediateFile>levels\pepper\cex_headlong\sky_headlong_2\export\models\sky_headlong_2_render.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="render_model">levels\pepper\cex_headlong\sky_headlong_2\sky_headlong_2</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="skeleton">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>levels\pepper\cex_headlong\sky_headlong_2\sky_headlong_2.blend</InputFile>
+          <IntermediateFile>levels\pepper\cex_headlong\sky_headlong_2\export\models\sky_headlong_2_skeleton.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+      <ContentObject Name="" Type="markers">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>levels\pepper\cex_headlong\sky_headlong_2\sky_headlong_2.blend</InputFile>
+          <IntermediateFile>levels\pepper\cex_headlong\sky_headlong_2\export\models\sky_headlong_2_markers.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+    </Content>
+  </Contents>
+</Metadata>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="62">
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Actor-Mixer Hierarchy\cex_headlong.wwu" DateLow="3269625839" DateHigh="31124702" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="80280951" DateHigh="31124508" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Attenuations\Default Work Unit.wwu" DateLow="3771031125" DateHigh="31124701" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Conversion Settings\Default Work Unit.wwu" DateLow="3399929895" DateHigh="31124104" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Conversion Settings\Factory Conversion Settings.wwu" DateLow="3592651008" DateHigh="30373277" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Dynamic Dialogue\Default Work Unit.wwu" DateLow="3399999727" DateHigh="31124104" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Effects\Default Work Unit.wwu" DateLow="737675831" DateHigh="31124484" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Effects\Factory Effects.wwu" DateLow="3592651008" DateHigh="30373277" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Effects\Factory iZotope Box Modeler.wwu" DateLow="3592651008" DateHigh="30373277" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Effects\Factory iZotope Delay.wwu" DateLow="3592651008" DateHigh="30373277" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Effects\Factory iZotope Dynamics.wwu" DateLow="3592651008" DateHigh="30373277" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Effects\Factory iZotope Filters.wwu" DateLow="3592651008" DateHigh="30373277" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="3592651008" DateHigh="30373277" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="3592651008" DateHigh="30373277" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="3592651008" DateHigh="30373277" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Effects\Factory McDSP Effects.wwu" DateLow="3592651008" DateHigh="30373277" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Events\Default Work Unit.wwu" DateLow="3356166137" DateHigh="31124702" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Game Parameters\Default Work Unit.wwu" DateLow="3400054754" DateHigh="31124104" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\H2A-Headlong.jakeb.wsettings" DateLow="3271331415" DateHigh="31124704" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\H2A-Headlong.wproj" DateLow="2753461677" DateHigh="31124704" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="3400125003" DateHigh="31124104" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3400114583" DateHigh="31124104" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Mixing Sessions\Default Work Unit.wwu" DateLow="3400044769" DateHigh="31124104" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Presets\Default Work Unit.wwu" DateLow="3400024755" DateHigh="31124104" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Queries\Default Work Unit.wwu" DateLow="3399959854" DateHigh="31124104" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Queries\Factory Queries.wwu" DateLow="3592651008" DateHigh="30373277" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\SoundBanks\Default Work Unit.wwu" DateLow="3402713997" DateHigh="31124702" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3400094629" DateHigh="31124104" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\States\Default Work Unit.wwu" DateLow="3399894860" DateHigh="31124104" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Switches\Default Work Unit.wwu" DateLow="3400064715" DateHigh="31124104" />
+	<ValidationCacheItem File="C:\Program Files (x86)\Steam\steamapps\common\H2AMPEK\wwise\H2A-Headlong\Triggers\Default Work Unit.wwu" DateLow="3399979801" DateHigh="31124104" />
+</ValidationCache>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{96CCDBA3-5830-4A45-880F-834CBF767860}" SchemaVersion="62">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{96CCDBA3-5830-4A45-880F-834CBF767860}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_ca_water_light_lapping" ID="{7A7B885B-1934-4264-91E7-87DFB6C97EFB}">
+					<ChildrenList>
+						<Action Name="Play" ID="{D2147F38-469E-4E71-B72F-05F679B41637}" ShortID="17107308" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{EBED6BCE-4C3D-4222-902F-EEFA52C117F6}" Global="false">
+									<ObjectRef Name="ca_water_light_lapping" ID="{EDA74122-4B3A-4DD5-80D1-8DB262572FCD}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_swahili_pa" ID="{FB1FA939-7CDD-4A7F-818D-088F625363BF}">
+					<ChildrenList>
+						<Action Name="Play" ID="{EC56D685-E5D7-47DA-BC41-07ED54F58267}" ShortID="932942103" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{7CD4ECDF-00F5-4DE9-AC59-3965B33D7B7A}" Global="false">
+									<ObjectRef Name="swahili" ID="{20DDDA9C-6C5B-4540-BB8B-94DE636F2034}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_water_fountain_oni" ID="{2231E930-5BC2-40B4-A7C5-BAAEEC2B9E52}">
+					<ChildrenList>
+						<Action Name="Play" ID="{855091AA-5E96-4999-8658-A58CD836E8C3}" ShortID="189188328" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{E7A6C5AB-625B-4861-B9F6-11C98C0376C5}" Global="false">
+									<ObjectRef Name="ca_water_fountain_oni" ID="{3F857B9F-CD5A-4FD8-8379-C0A5D969F176}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_broken_light" ID="{FCDF41DE-4505-4C93-97C5-D9A3C7C1818F}">
+					<ChildrenList>
+						<Action Name="Play" ID="{A906ACE3-1AA2-49C7-9241-63CF837E75B6}" ShortID="100740025" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{AE08E035-9356-4967-868D-16E549E0932C}" Global="false">
+									<ObjectRef Name="broken_light" ID="{F58DE227-7B09-4F9B-8D1B-6C70B447A295}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_pressure_in_pipes" ID="{402BE801-488C-48CA-A690-2C0DA53092D4}">
+					<ChildrenList>
+						<Action Name="Play" ID="{CB2D6A3A-741B-4C23-B726-9E3211ADA677}" ShortID="477083266" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{56791A56-2AF4-486C-98CF-B7658AE6CE59}" Global="false">
+									<ObjectRef Name="pressure_in_pipes" ID="{B6195807-7ECB-417C-B131-B215E68451CC}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_pipe_med" ID="{760EC751-FA52-4185-A4C2-E41C96A3FFC8}">
+					<ChildrenList>
+						<Action Name="Play" ID="{06CCEA10-AA1C-47DD-87AA-C2EE33D47347}" ShortID="404709776" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{C1986C4C-A824-4F9A-801E-270B9F80912F}" Global="false">
+									<ObjectRef Name="ca_pipe_med" ID="{369D94D3-4B93-4CDD-8587-2AF9E2FF7B48}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_fluorescent_light" ID="{F5858529-8A5E-460F-AC03-E5960A76D416}">
+					<ChildrenList>
+						<Action Name="Play" ID="{D67CB3E3-3743-4F73-978A-EF3CEC7646B9}" ShortID="638144975" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{9497CFD0-F108-41AE-AD72-D1B7AE21E757}" Global="false">
+									<ObjectRef Name="ca_fluorescent_light" ID="{178A851D-E527-4577-82CC-F67886386439}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_bigscreen" ID="{7E8E941C-4CC8-4F28-8AA0-3B42FDF5F37D}">
+					<ChildrenList>
+						<Action Name="Play" ID="{72E5B1A6-AB19-426E-B886-F58C3271B667}" ShortID="796029691" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{9AEC3D89-A09D-4EEB-AC39-A69C2EC5367C}" Global="false">
+									<ObjectRef Name="ca_bigscreen" ID="{C7B7FACA-AC89-4F3A-92D2-322AFA2227C1}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_smallscreen" ID="{4644E92F-14E8-49A0-873E-7D6C5D1BA5FC}">
+					<ChildrenList>
+						<Action Name="Play" ID="{51A5538E-33BC-461B-AACA-5316277504A9}" ShortID="973647876" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{56B51D31-8ED1-46DB-AFAB-63849E8E611C}" Global="false">
+									<ObjectRef Name="ca_smallscreen" ID="{787A528E-C16E-47E9-AA04-3A19F55720DA}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_m50_machine1" ID="{7213649A-2567-44D2-953E-F68F9E2F19E8}">
+					<ChildrenList>
+						<Action Name="Play" ID="{00EB44B9-05D1-4383-BABE-7A1FE6576B89}" ShortID="269192708" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{DC18FF17-4641-420F-B212-8019B3F57E6E}" Global="false">
+									<ObjectRef Name="ca_m50_machine1" ID="{0383C1A2-69DE-4D81-9850-0FF638D4E94A}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_transformer_boxes" ID="{75897839-5F2B-4FEB-AA15-FD3A70276B00}">
+					<ChildrenList>
+						<Action Name="Play" ID="{90A20BAD-2CD6-4D2C-A9C9-CC35A24EFA45}" ShortID="592589718" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{2BEB8DAC-395E-461E-BAFB-004CFE0CC78B}" Global="false">
+									<ObjectRef Name="ca_transformer_boxes" ID="{0E41A756-7733-4F97-B906-300B7BAD7AFE}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_circuit_boxes" ID="{161F13D7-19B7-4F3D-BA33-877DF82A7AE8}">
+					<ChildrenList>
+						<Action Name="Play" ID="{762690DB-3AE6-4F06-9D52-A83C73535C15}" ShortID="571012337" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{831779C4-865D-4BA9-B856-BE3A62E50BAE}" Global="false">
+									<ObjectRef Name="ca_circuit_boxes" ID="{67A7DD85-72A6-42DF-ABC5-F40EE0EB4949}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_lift_loop" ID="{EAA54C15-D6D5-45C6-969D-468932AA386B}">
+					<ChildrenList>
+						<Action Name="Play" ID="{BBD56613-8DBA-49BE-9036-7C35ACD0F776}" ShortID="49516756" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{3A026F1F-AB70-4E64-AD81-C4F6F2B61C39}" Global="false">
+									<ObjectRef Name="ca_lift_loop" ID="{BB191A3F-8673-4E90-9642-C89425405B9D}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_cyberdine_fan_lift" ID="{B8B750A1-D4D6-4535-BD84-C180C58E2CD8}">
+					<ChildrenList>
+						<Action Name="Play" ID="{2B2DF9A4-AE60-4AA0-B0C1-032525A291F3}" ShortID="47148542" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{CCFC1854-BCAE-4C9F-9757-E062F47E7AC3}" Global="false">
+									<ObjectRef Name="ca_cyberdine_fan_lift" ID="{3A0C80C0-C652-47BE-B829-68BE10BCFBCE}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_hl_crane" ID="{C6FE0533-079C-47D9-A24E-24864B2A5B0D}">
+					<ChildrenList>
+						<Action Name="Play" ID="{6773573C-C941-4FD5-9E8D-CB8E64EAFCF7}" ShortID="28532182" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{0540BF1F-A947-4D85-AC74-79F5CAA5C617}" Global="false">
+									<ObjectRef Name="ca_hl_crane" ID="{476BD65C-03CB-4F0B-A85A-58778477A142}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_hvac_point" ID="{83F9159A-95CF-4B04-8A60-9E69D490BEC0}">
+					<ChildrenList>
+						<Action Name="Play" ID="{C230BC59-92C5-46AC-BEFB-D3F18796EE0B}" ShortID="423756939" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{438F0FC3-9DA5-45CF-B507-BA74C54E27CC}" Global="false">
+									<ObjectRef Name="ca_hvac_point" ID="{8962BE63-C950-4BCE-8E56-B0FEC11EBC5B}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_hl_comp" ID="{6E900EE9-29B4-4816-B0A7-91F1E1DFC8E6}">
+					<ChildrenList>
+						<Action Name="Play" ID="{2AE47E86-6E89-4DAD-8E8D-BF9D514C3A72}" ShortID="286291216" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{6128206F-7175-44C8-8300-06D78A50F420}" Global="false">
+									<ObjectRef Name="ca_hl_comp" ID="{ABF40E9F-EF46-41E8-8C98-5BEC4E1149C0}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_hl_steammed" ID="{08257931-0B88-48B9-9ABC-D403AC2B50EE}">
+					<ChildrenList>
+						<Action Name="Play" ID="{09798848-3742-4EE6-B082-88A94DB0F04F}" ShortID="813553639" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{57140FB6-5E0A-499D-BA7C-3FFDF28751F3}" Global="false">
+									<ObjectRef Name="ca_hl_steammed" ID="{0E3C5860-17BB-48EF-9369-242457A43815}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_hl_burnbuilding_lod" ID="{7B3BB475-9B22-42F3-892E-83B1BD09B8F3}">
+					<ChildrenList>
+						<Action Name="Play" ID="{CDD89DB4-D62F-432C-86CA-82331CD22733}" ShortID="764151278" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{6CB3B880-936A-4B77-B776-4AF18E1E8853}" Global="false">
+									<ObjectRef Name="ca_hl_burnbuilding_lod" ID="{FB1F1A5A-C765-4043-8656-83A12A25EBB3}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_hl_buildingfire" ID="{6094D391-8F0D-4A68-AF57-CF51493ACF52}">
+					<ChildrenList>
+						<Action Name="Play" ID="{1E69E30C-223F-467C-B170-8AAB799B949C}" ShortID="667393916" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{EEDE7A31-1859-4DF8-B3DF-DCCBFA686194}" Global="false">
+									<ObjectRef Name="ca_hl_buildingfire" ID="{4EC32F58-B179-4445-8B4E-EB03CB25A962}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_hl_flamefall_exp" ID="{1CD00B96-3F9A-4FD9-893E-D2406B595E39}">
+					<ChildrenList>
+						<Action Name="Play" ID="{CBFCCD10-6B59-4C14-BE8B-0F61C7643764}" ShortID="348042681" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{AF8A927E-879D-4D44-9F20-5B9C124E6B50}" Global="false">
+									<ObjectRef Name="ca_hl_flamefall_exp" ID="{43C7477C-32EB-486E-A95B-E8930F1B68CE}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_ca_hl_flamefall_fire" ID="{77BC6DF2-3216-424E-9FD8-2524BF0376B2}">
+					<ChildrenList>
+						<Action Name="Play" ID="{AF595CA7-65FC-472A-A464-BE0DDDBAE331}" ShortID="202499817" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{F48EF65F-136C-451C-91FB-8EF6901DF59E}" Global="false">
+									<ObjectRef Name="ca_hl_flamefall_fire" ID="{F31338CA-1308-424C-A8C4-331EDF932261}" WorkUnitID="{4ECD2CA2-A996-482D-AAEE-76BE19BD484C}" />
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Metadata>
+  <Header>
+    <MainRev>0</MainRev>
+    <PointRev>6</PointRev>
+    <Description>Forged in Foundry</Description>
+    <Created>2024-08-15 15:52:00</Created>
+    <By>jakeb</By>
+    <SourceBlend>levels\pepper\cex_headlong\objects\construction_plates_bundle\construction_plates_bundle.blend</SourceBlend>
+    <DirectoryType>TAE.Shared.NWOAssetDirectory</DirectoryType>
+    <Schema>1</Schema>
+  </Header>
+  <Asset Name="construction_plates_bundle" Type="model">
+    <OutputTagCollection>
+      <OutputTag Type="model">levels\pepper\cex_headlong\objects\construction_plates_bundle\construction_plates_bundle</OutputTag>
+      <OutputTag Type="scenery">levels\pepper\cex_headlong\objects\construction_plates_bundle\construction_plates_bundle</OutputTag>
+    </OutputTagCollection>
+  </Asset>
+  <Folders>
+    <Reference>\reference</Reference>
+    <Temp>\temp</Temp>
+    <SourceModels>\models\work</SourceModels>
+    <GameModels>\models</GameModels>
+    <GamePhysicsModels>\models</GamePhysicsModels>
+    <GameCollisionModels>\models</GameCollisionModels>
+    <ExportModels>\export\models</ExportModels>
+    <ExportPhysicsModels>\export\models</ExportPhysicsModels>
+    <ExportCollisionModels>\export\models</ExportCollisionModels>
+    <SourceAnimations>\animations\work</SourceAnimations>
+    <AnimationsRigs>\animations\rigs</AnimationsRigs>
+    <GameAnimations>\animations</GameAnimations>
+    <ExportAnimations>\export\animations</ExportAnimations>
+    <SourceBitmaps>\bitmaps</SourceBitmaps>
+    <GameBitmaps>\bitmaps</GameBitmaps>
+    <CinemaSource>\cinematics</CinemaSource>
+    <CinemaExport>\export\cinematics</CinemaExport>
+    <ExportBSPs>\models</ExportBSPs>
+    <SourceBSPs>\models</SourceBSPs>
+    <RigFlags>\animations\rigs\flags</RigFlags>
+    <RigPoses>\animations\rigs\poses</RigPoses>
+    <RigRenders>\animations\rigs\render</RigRenders>
+    <Scripts>\scripts</Scripts>
+    <FacePoses>\animations\rigs\poses\face_poses</FacePoses>
+    <CinematicOutsource>\outsource</CinematicOutsource>
+    <Retarget>\working\retarget</Retarget>
+    <RetargetSourceAnimations>\working\retarget\binge</RetargetSourceAnimations>
+    <RetargetTargetAnimations>\working\retarget\purge</RetargetTargetAnimations>
+    <Export>\export</Export>
+    <CinematicSceneSegments>\segments</CinematicSceneSegments>
+    <SourceAnimationLibrary>\animations\library</SourceAnimationLibrary>
+  </Folders>
+  <FaceCollections>
+    <FaceCollection Name="regions" StringTable="connected_geometry_regions_table" Description="Model regions">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+    <FaceCollection Name="global materials override" StringTable="connected_geometry_global_material_table" Description="Global material overrides">
+      <FaceCollectionEntries>
+        <FaceCollectionEntry Index="0" Name="default" Active="true"/>
+        <FaceCollectionEntry Index="1" Name="tough_organic_wood" Active="true"/>
+        <FaceCollectionEntry Index="2" Name="hard_metal_solid" Active="true"/>
+      </FaceCollectionEntries>
+    </FaceCollection>
+  </FaceCollections>
+  <Contents>
+    <Content Name="construction_plates_bundle" Type="model">
+      <ContentObject Name="" Type="render_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>levels\pepper\cex_headlong\objects\construction_plates_bundle\construction_plates_bundle.blend</InputFile>
+          <IntermediateFile>levels\pepper\cex_headlong\objects\construction_plates_bundle\export\models\construction_plates_bundle_render.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="render_model">levels\pepper\cex_headlong\objects\construction_plates_bundle\construction_plates_bundle</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="physics_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>levels\pepper\cex_headlong\objects\construction_plates_bundle\construction_plates_bundle.blend</InputFile>
+          <IntermediateFile>levels\pepper\cex_headlong\objects\construction_plates_bundle\export\models\construction_plates_bundle_physics.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="physics_model">levels\pepper\cex_headlong\objects\construction_plates_bundle\construction_plates_bundle</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="collision_model">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>levels\pepper\cex_headlong\objects\construction_plates_bundle\construction_plates_bundle.blend</InputFile>
+          <IntermediateFile>levels\pepper\cex_headlong\objects\construction_plates_bundle\export\models\construction_plates_bundle_collision.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection>
+          <OutputTag Type="collision_model">levels\pepper\cex_headlong\objects\construction_plates_bundle\construction_plates_bundle</OutputTag>
+        </OutputTagCollection>
+      </ContentObject>
+      <ContentObject Name="" Type="skeleton">
+        <ContentNetwork Name="default" Type="">
+          <InputFile>levels\pepper\cex_headlong\objects\construction_plates_bundle\construction_plates_bundle.blend</InputFile>
+          <IntermediateFile>levels\pepper\cex_headlong\objects\construction_plates_bundle\export\models\construction_plates_bundle_skeleton.gr2</IntermediateFile>
+        </ContentNetwork>
+        <OutputTagCollection/>
+      </ContentObject>
+    </Content>
+  </Contents>
+</Metadata>

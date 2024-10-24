@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<tag group="scenario_structure_lighting_info" id="levels\pepper\cex_headlong\cex_headlong_headlong" version="1">
+    <field name="import info checksum" value="487982093" type="long integer"/>
+    <block name="generic light definitions" count="1">
+        <element index="0" name="">
+            <field name="Definition Identifier" value=" " type="int64 integer"/>
+            <field name="Midnight_Light_Parameters" value=" " type="struct"/>
+                <field name="Version" value="2" type="long integer"/>
+                <field name="haloLightNode" value="" type="string id"/>
+                <field name="Light Type" value="Spot" type="long enum"/>
+                <field name="Light Color" value="0.5,0.5,1" type="real rgb color"/>
+                <field name="Intensity" value=" " type="struct"/>
+                    <field name="Input Variable" value="" type="string id"/>
+                    <field name="Range Variable" value="" type="string id"/>
+                    <field name="Output Modifier" value=" " type="short enum"/>
+                    <field name="BVCG" value=" " type="pad"/>
+                    <field name="Output Modifier Input" value="" type="string id"/>
+                    <field name="Mapping" value=" " type="struct"/>
+                        <field name="data" value="function_definition_data,ASQAAAAAQEAAACBBAAAAAAAAAABvEoM6bxIDOwAAAAA" type="data"/>
+                <field name="Lighting Mode" value="Artistic" type="long enum"/>
+                <field name="Distance Attenuation Start" value="1" type="real"/>
+                <field name="Distance Attenuation End" value=" " type="struct"/>
+                    <field name="Input Variable" value="" type="string id"/>
+                    <field name="Range Variable" value="" type="string id"/>
+                    <field name="Output Modifier" value=" " type="short enum"/>
+                    <field name="BVCG" value=" " type="pad"/>
+                    <field name="Output Modifier Input" value="" type="string id"/>
+                    <field name="Mapping" value=" " type="struct"/>
+                        <field name="data" value="function_definition_data,ASQAAAAAIEEAAPBBAAAAAAAAAABvEoM6bxIDOwAAAAA" type="data"/>
+                <field name="Camera Distance Fade Start" value="0" type="real"/>
+                <field name="Camera Distance Fade End" value="0" type="real"/>
+                <field name="Specular Power" value="0" type="real"/>
+                <field name="Specular Intensity" value="0" type="real"/>
+                <field name="Inner Cone Angle" value="0" type="real"/>
+                <field name="Outer Cone End" value=" " type="struct"/>
+                    <field name="Input Variable" value="" type="string id"/>
+                    <field name="Range Variable" value="" type="string id"/>
+                    <field name="Output Modifier" value=" " type="short enum"/>
+                    <field name="BVCG" value=" " type="pad"/>
+                    <field name="Output Modifier Input" value="" type="string id"/>
+                    <field name="Mapping" value=" " type="struct"/>
+                        <field name="data" value="function_definition_data,ASQAAAAAcEIAACBDAAAAAAAAAABvEoM6bxIDOwAAAAA" type="data"/>
+                <field name="Cone Projection Shape" value="Cone" type="long enum"/>
+                <field name="Shadow Near Clip Plane" value="0" type="real"/>
+                <field name="Shadow Far Clip Plane" value="0" type="real"/>
+                <field name="Shadow Bias Offset" value="0" type="real"/>
+                <field name="Shadow Color" value="0,0,0" type="real rgb color"/>
+                <field name="Dynamic Shadow Quality" value="Normal" type="short enum"/>
+                <field name="Shadows" value="Off" type="short enum"/>
+                <field name="Screenspace Light" value="On" type="char enum"/>
+                <field name="Ignore Dynamic Objects" value="Off" type="char enum"/>
+                <field name="Cinema Objects Only" value="Off" type="char enum"/>
+                <field name="Cinema Only" value="Off" type="char enum"/>
+                <field name="Cinema Exclude" value="Off" type="char enum"/>
+                <field name="PADDING1" value=" " type="pad"/>
+                <field name="Specular Contribution" value="On" type="char enum"/>
+                <field name="Diffuse Contribution" value="On" type="char enum"/>
+                <field name="Gobo Tag Path" value=",ÿÿÿÿ" type="tag reference"/>
+                <field name="Rotation" value=" " type="struct"/>
+                    <field name="Input Variable" value="" type="string id"/>
+                    <field name="Range Variable" value="" type="string id"/>
+                    <field name="Output Modifier" value=" " type="short enum"/>
+                    <field name="BVCG" value=" " type="pad"/>
+                    <field name="Output Modifier Input" value="" type="string id"/>
+                    <field name="Mapping" value=" " type="struct"/>
+                        <field name="data" value="function_definition_data,ASQAAAAAAAAAAAAAAAAAAAAAAABvEoM6bxIDOwAAAAA" type="data"/>
+                <field name="Aspect Ratio" value="1" type="real"/>
+                <field name="Tile Behavior" value="Clamp" type="long enum"/>
+                <field name="Repeat X" value="1" type="real"/>
+                <field name="Repeat Y" value="1" type="real"/>
+                <field name="Offset X" value=" " type="struct"/>
+                    <field name="Input Variable" value="" type="string id"/>
+                    <field name="Range Variable" value="" type="string id"/>
+                    <field name="Output Modifier" value=" " type="short enum"/>
+                    <field name="BVCG" value=" " type="pad"/>
+                    <field name="Output Modifier Input" value="" type="string id"/>
+                    <field name="Mapping" value=" " type="struct"/>
+                        <field name="data" value="function_definition_data,ACQAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAAAAAAAAA" type="data"/>
+                <field name="Offset Y" value=" " type="struct"/>
+                    <field name="Input Variable" value="" type="string id"/>
+                    <field name="Range Variable" value="" type="string id"/>
+                    <field name="Output Modifier" value=" " type="short enum"/>
+                    <field name="BVCG" value=" " type="pad"/>
+                    <field name="Output Modifier Input" value="" type="string id"/>
+                    <field name="Mapping" value=" " type="struct"/>
+                        <field name="data" value="function_definition_data,ACQAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAAAAAAAAA" type="data"/>
+                <field name="Interpolation Function" value=" " type="struct"/>
+                    <field name="Input Variable" value="" type="string id"/>
+                    <field name="Range Variable" value="" type="string id"/>
+                    <field name="Output Modifier" value=" " type="short enum"/>
+                    <field name="BVCG" value=" " type="pad"/>
+                    <field name="Output Modifier Input" value="" type="string id"/>
+                    <field name="Mapping" value=" " type="struct"/>
+                        <field name="data" value="function_definition_data,ACQAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAAAAAAAAA" type="data"/>
+                <field name="Target Color" value="0,0,0" type="real rgb color"/>
+                <field name="Light Channels" value="0" type="long flags"/>
+                <field name="Shadow Channels" value="0" type="long flags"/>
+                <field name="flags" value="0" type="long flags"/>
+                <field name="destroy light after" value="0" type="real"/>
+                <field name="Lens Flare" value=",ÿÿÿÿ" type="tag reference"/>
+            <field name="Source File Identifier" value="0" type="long integer"/>
+            <field name="indirect amplification factor" value="1" type="real"/>
+            <field name="jitter sphere radius" value="0" type="real"/>
+            <field name="jitter angle" value="0" type="real"/>
+            <field name="jitter quality" value="low" type="short enum"/>
+            <field name="sun" value="Off" type="char enum"/>
+            <field name="indirect only" value="Off" type="char enum"/>
+            <field name="flags" value="0" type="long flags"/>
+            <field name="static analytic" value="Off" type="char enum"/>
+            <field name="pdd" value=" " type="pad"/>
+        </element>
+    </block>
+    <block name="generic light instances" count="1">
+        <element index="0" name="0. structure_lighting_generic_light_instance_block">
+            <field name="Light Definition ID" value=" " type="int64 integer"/>
+            <field name="Light Instance ID" value=" " type="int64 integer"/>
+            <field name="Light Definition Index" value="0" type="long integer"/>
+            <field name="Maya Source Hash" value="0" type="long integer"/>
+            <field name="runtime definition" value=",ÿÿÿÿ" type="tag reference"/>
+            <field name="light mode" value="Static" type="long enum"/>
+            <field name="origin" value="10,11,12" type="real point 3d"/>
+            <field name="forward" value="12,11,10" type="real vector 3d"/>
+            <field name="up" value="3,3,3" type="real vector 3d"/>
+            <field name="fade out distance" value="0" type="real"/>
+            <field name="fade start distance" value="0" type="real"/>
+            <field name="Shadow Geometry Checksum" value="0" type="long integer"/>
+            <field name="pdd" value=" " type="pad"/>
+        </element>
+    </block>
+    <block name="screen space light shader override" count="0">
+    </block>
+    <block name="cinematic light instances" count="0">
+    </block>
+    <field name="Sun Intensity Multiplier" value=" " type="struct"/>
+        <field name="Input Variable" value="" type="string id"/>
+        <field name="Range Variable" value="" type="string id"/>
+        <field name="Output Modifier" value=" " type="short enum"/>
+        <field name="BVCG" value=" " type="pad"/>
+        <field name="Output Modifier Input" value="" type="string id"/>
+        <field name="Mapping" value=" " type="struct"/>
+            <field name="data" value="function_definition_data," type="data"/>
+</tag>

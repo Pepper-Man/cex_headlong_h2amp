@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3E909365-4472-4AB1-B9AE-D6B828B74D8A}" SchemaVersion="62">
+	<Effects>
+		<WorkUnit Name="Default Work Unit" ID="{3E909365-4472-4AB1-B9AE-D6B828B74D8A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="water_fountain_oni_pitch" ID="{7C8679F3-B2B6-43A4-8E7D-0F9A28AED77F}" PluginName="Wwise Pitch Shifter" CompanyID="0" PluginID="136">
+					<PropertyList>
+						<Property Name="FilterType" Type="int32" Value="1" />
+					</PropertyList>
+				</Effect>
+			</ChildrenList>
+		</WorkUnit>
+	</Effects>
+</WwiseDocument>

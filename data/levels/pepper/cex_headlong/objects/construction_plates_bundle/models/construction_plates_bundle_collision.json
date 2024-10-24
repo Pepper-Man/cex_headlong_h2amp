@@ -1,0 +1,46 @@
+{
+    "string_table": {
+        "global_materials_names": [
+            "'default','hard_metal_solid'"
+        ],
+        "global_materials_values": [
+            "0,2"
+        ],
+        "regions_names": [
+            "'default'"
+        ],
+        "regions_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {
+        "construction_plates_bundle_world": {
+            "bungie_frame_world": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771",
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "754e21fd-aa9b-13fd-8d50-97950d4f01fc"
+        },
+        "implied_root_node": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {
+        "default:default:0": {
+            "bungie_object_type": "_connected_geometry_object_type_mesh",
+            "bungie_mesh_type": "_connected_geometry_mesh_type_collision",
+            "bungie_face_global_material": "hard_metal_solid",
+            "bungie_face_region": "default",
+            "bungie_object_ID": "a2ca4f02-b7c9-eb9b-45af-afd6c9bdefc8"
+        }
+    },
+    "material_properties": {
+        "+invisible": {
+            "halo_shader_path": "objects\\levels\\shared\\shaders\\invisible",
+            "halo_shader_type": "material"
+        }
+    }
+}

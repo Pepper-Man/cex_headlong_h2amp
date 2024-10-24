@@ -1,0 +1,33 @@
+{
+    "string_table": {
+        "global_materials_names": [
+            "'default'"
+        ],
+        "global_materials_values": [
+            "0"
+        ],
+        "regions_names": [
+            "'default'"
+        ],
+        "regions_values": [
+            "0"
+        ]
+    },
+    "nodes_properties": {
+        "construction_plates_bundle_world": {
+            "bungie_frame_world": "1",
+            "bungie_frame_ID1": "8078",
+            "bungie_frame_ID2": "378163771",
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_object_ID": "754e21fd-aa9b-13fd-8d50-97950d4f01fc"
+        },
+        "implied_root_node": {
+            "bungie_object_type": "_connected_geometry_object_type_frame",
+            "bungie_frame_ID1": "698686589",
+            "bungie_frame_ID2": "-1386155752",
+            "bungie_object_animates": "1"
+        }
+    },
+    "meshes_properties": {},
+    "material_properties": {}
+}
